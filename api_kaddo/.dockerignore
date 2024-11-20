@@ -1,0 +1,14 @@
+# Secret files
+.git
+
+# Database files
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# Backup files
+*/backups/*
+
+# Images
+imagens_produtos_png
